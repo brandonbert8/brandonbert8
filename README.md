@@ -1,6 +1,6 @@
 <div align="center">
 
-# Brandon
+# Brandon Bert
 
 **Fullstack Developer · AI & Data Science**
 
