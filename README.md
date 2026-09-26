@@ -4,7 +4,6 @@
 
 **Fullstack Developer · AI & Data Science**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=Building+scalable+backend+systems;Architecting+databases+and+APIs;Crafting+AI-powered+tools" />
 
 <p>
   <a href="mailto:ramitpr53@gmail.com">
@@ -24,9 +23,6 @@
 I build **backend systems, APIs, databases, and AI-powered applications** with a focus on **scalability, performance, and clean architecture**.
 
 ---
-
-## Tech Stack
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
